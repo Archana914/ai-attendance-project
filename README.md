@@ -1,1 +1,1 @@
-# ai-attendance-project
+# ai-attendance-project-app
